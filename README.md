@@ -29,7 +29,7 @@ The final state of the file should be as follows (replacing the "Created by" inf
 ```
 # Exercise-05c-Create-a-Model
 
-Exercise for MSCH-C220, 31 March 2021
+Exercise for MSCH-C220, 5 April 2021
 
 The result of following the classic donut Blender tutorial by Blender Guru.
 
@@ -40,8 +40,8 @@ Created in Blender 2.92.0
 [Blender Guru: Donut Course Playlist](https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 
 ## Future Development
-None
+For future use in blender now that i've got the hang of it's systems a bit.
 
 ## Created by 
-Jason Francis
+Jalen Slutzky
 ```
